@@ -1,3 +1,5 @@
+# 🔗 Link: https://socialsentiment.streamlit.app
+---
 # Social Media Sentiment Analyzer 📊
 
 A comprehensive sentiment analysis tool for multiple social media platforms including Facebook, Instagram, Twitter/X, and Reddit. Built with Streamlit and powered by advanced NLP techniques.
@@ -283,4 +285,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**⚡ Built with Python, Streamlit, and ❤️**
+**Made with ❤️ by [Rounak Dey](https://github.com/rounakdey2003)**
