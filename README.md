@@ -1,10 +1,10 @@
 # 🔗 Link: https://socialsentiment.streamlit.app
 ---
-# Social Media Sentiment Analyzer 📊
+# Social Media Sentiment Analyzer
 
 A comprehensive sentiment analysis tool for multiple social media platforms including Facebook, Instagram, Twitter/X, and Reddit. Built with Streamlit and powered by advanced NLP techniques.
 
-## 🌟 Features
+## Features
 
 - **Multi-Platform Support**: Analyze sentiment across Facebook, Instagram, Twitter/X, and Reddit
 - **Advanced Sentiment Analysis**: Combines VADER and TextBlob for accurate sentiment scoring
@@ -17,7 +17,7 @@ A comprehensive sentiment analysis tool for multiple social media platforms incl
 - **Rate Limit Handling**: Smart fallback mechanisms for API limitations
 - **Demo Data Support**: Test the application with sample data when APIs are unavailable
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ SocialAnalyser/
     └── sentiment_engine.py        # Sentiment analysis engine
 ```
 
-## 🎯 Usage Guide
+## Usage Guide
 
 ### 1. Platform Selection
 - Choose from Facebook, Instagram, Twitter/X, or Reddit
@@ -147,7 +147,7 @@ View comprehensive analytics including:
 - **Data**: Raw data table with sentiment scores
 - **Word Cloud**: Visual representation of frequently used words
 
-## 🧠 Sentiment Analysis Engine
+## Sentiment Analysis Engine
 
 The sentiment analysis combines two powerful approaches:
 
@@ -168,7 +168,7 @@ The sentiment analysis combines two powerful approaches:
   - Negative: score ≤ -0.05
   - Neutral: -0.05 < score < 0.05
 
-## 📊 Analytics Features
+## Analytics Features
 
 ### Real-time Metrics
 - Total posts analyzed
@@ -186,7 +186,7 @@ The sentiment analysis combines two powerful approaches:
 - Sortable and filterable tables
 - Export capabilities for further analysis
 
-## ⚠️ Rate Limits & Best Practices
+## Rate Limits & Best Practices
 
 ### Instagram
 - Strict rate limiting (~200 requests/hour)
@@ -209,7 +209,7 @@ The sentiment analysis combines two powerful approaches:
 - Business verification may be required
 - Respect platform terms of service
 
-## 🛠️ Development
+## Development
 
 ### Adding New Platforms
 1. Create analyzer class in `modules/`
@@ -226,7 +226,7 @@ The sentiment analysis combines two powerful approaches:
 - Adjust scoring weights
 - Implement custom models
 
-## 🔍 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -255,11 +255,11 @@ The sentiment analysis combines two powerful approaches:
 - Check API status pages
 - Verify network connectivity
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -269,14 +269,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 1. Check the troubleshooting section
 2. Review API documentation
 3. Create an issue on GitHub
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Streamlit](https://streamlit.io/) for the amazing web framework
 - [VADER Sentiment](https://github.com/cjhutto/vaderSentiment) for social media sentiment analysis
