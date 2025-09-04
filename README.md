@@ -51,7 +51,7 @@ A comprehensive sentiment analysis tool for multiple social media platforms incl
 5. **Open your browser**
    Navigate to `http://localhost:8501`
 
-## 🔧 API Setup
+## API Setup
 
 ### Facebook API
 
@@ -93,7 +93,7 @@ A comprehensive sentiment analysis tool for multiple social media platforms incl
   - Instagram Basic Display API
   - Instagram Graph API (for business accounts)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SocialAnalyser/
